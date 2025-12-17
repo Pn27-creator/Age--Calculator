@@ -461,4 +461,3 @@ btn3.Bind(wx.EVT_BUTTON, show_birth_flower_stone)
 
 frame.Show()
 app.MainLoop()
-
